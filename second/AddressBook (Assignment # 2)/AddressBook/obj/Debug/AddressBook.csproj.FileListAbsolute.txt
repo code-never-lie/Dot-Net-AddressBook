@@ -1,0 +1,30 @@
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.ManageOptions.resources
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.Add_Address.resources
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.AddressesList.resources
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.SearchAddress.resources
+C:\Users\shaza\OneDrive\Desktop\AddressBook\AddressBook\obj\Debug\AddressBook.PrintData.resources
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.SuggestedBindingRedirects.cache
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.Add_Address.resources
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.AddressesList.resources
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.ManageOptions.resources
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.PrintData.resources
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.SearchAddress.resources
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+E:\Home work\SCD CLASS\Assignment # 2 Class\second\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
